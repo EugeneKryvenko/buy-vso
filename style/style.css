@@ -1,3 +1,118 @@
+body {
+  width: 1440px;
+  height: 3079px;
+}
+
 a {
   text-decoration: none;
+}
+
+#HomeLink {
+  position: absolute;
+  width: 45px;
+  height: 29px;
+  left: 419px;
+  top: 19px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+  /* color: #ffffff; */
+}
+
+#WhyVersoLink {
+  position: absolute;
+  width: 82px;
+  height: 29px;
+  left: 527px;
+  top: 19px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+  /* color: #ffffff; */
+}
+
+#TeamLink {
+  position: absolute;
+  width: 41px;
+  height: 29px;
+  left: 644px;
+  top: 19px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+  /* color: #FFFFFF; */
+}
+
+#RoadmapLink {
+  position: absolute;
+  width: 72px;
+  height: 29px;
+  left: 734px;
+  top: 19px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+  /* color: #FFFFFF; */
+}
+
+#BlogLink {
+  position: absolute;
+  width: 32px;
+  height: 29px;
+  left: 855px;
+  top: 19px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+  /* color: #FFFFFF; */
+}
+
+#WhitepaperLink {
+  position: absolute;
+  width: 90px;
+  height: 29px;
+  left: 936px;
+  top: 19px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+  /* color: #FFFFFF; */
+}
+
+#Button1Link {
+  position: absolute;
+  width: 76px;
+  height: 29px;
+  left: 1190px;
+  top: 19px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 180%;
+  text-align: center;
+
+  /* color: #FFFFFF; */
+}
+
+header span {
+  padding-left: 4px;
 }
