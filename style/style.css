@@ -16,6 +16,14 @@ a {
   text-decoration: none;
 }
 
+#logo {
+  position: absolute;
+  width: 139.09px;
+  height: 33px;
+  left: 154px;
+  top: 20px;
+}
+
 #HomeLink {
   position: absolute;
   width: 45px;
@@ -28,7 +36,7 @@ a {
   font-size: 16px;
   line-height: 180%;
   text-align: center;
-  /* color: #ffffff; */
+  color: #ffffff;
 }
 
 #WhyVersoLink {
@@ -43,7 +51,7 @@ a {
   font-size: 16px;
   line-height: 180%;
   text-align: center;
-  /* color: #ffffff; */
+  color: #ffffff;
 }
 
 #TeamLink {
@@ -58,7 +66,7 @@ a {
   font-size: 16px;
   line-height: 180%;
   text-align: center;
-  /* color: #FFFFFF; */
+  color: #ffffff;
 }
 
 #RoadmapLink {
@@ -73,7 +81,7 @@ a {
   font-size: 16px;
   line-height: 180%;
   text-align: center;
-  /* color: #FFFFFF; */
+  color: #ffffff;
 }
 
 #BlogLink {
@@ -88,7 +96,7 @@ a {
   font-size: 16px;
   line-height: 180%;
   text-align: center;
-  /* color: #FFFFFF; */
+  color: #ffffff;
 }
 
 #WhitepaperLink {
@@ -103,7 +111,7 @@ a {
   font-size: 16px;
   line-height: 180%;
   text-align: center;
-  /* color: #FFFFFF; */
+  color: #ffffff;
 }
 
 #Button1Link {
@@ -119,11 +127,11 @@ a {
   font-size: 16px;
   line-height: 180%;
   text-align: center;
-  border: 1px solid #7c3535;
+  border: 1px solid #fff;
   border-radius: 7px;
   padding: 5px 29px 5px 30px;
   margin-top: -5px;
-  /* color: #FFFFFF; */
+  color: #ffffff;
 }
 
 header span {
