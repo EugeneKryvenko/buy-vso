@@ -98,6 +98,8 @@ a {
 }
 
 #Button1Link {
+  display: inline-block;
+  cursor: pointer;
   position: absolute;
   width: 76px;
   height: 29px;
@@ -109,7 +111,10 @@ a {
   font-size: 16px;
   line-height: 180%;
   text-align: center;
-
+  border: 1px solid #7c3535;
+  border-radius: 7px;
+  padding: 5px 29px 5px 30px;
+  margin-top: -5px;
   /* color: #FFFFFF; */
 }
 
