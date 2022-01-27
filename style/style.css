@@ -142,7 +142,7 @@ header span {
 
 /* home content */
 
-#Title {
+#Title1 {
   position: absolute;
   width: 790px;
   height: 80px;
@@ -382,9 +382,67 @@ header span {
 
 .how-to-add {
   position: absolute;
-  width: 1720.95px;
+  width: 1440px;
   height: 799px;
-  left: -140.95px;
   top: 900px;
+  left: 0px;
   background: #0773fa;
+}
+
+#Title2 {
+  width: 598px;
+  height: 80px;
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 80px;
+  text-align: center;
+  letter-spacing: -2.4px;
+  color: #ffffff;
+  margin: 57px 422px 0 421px;
+}
+
+#cart1 {
+  margin: 31px 142.68px 60px 371px;
+  width: 367.32px;
+  height: 470px;
+}
+
+#cart2 {
+  position: relative;
+  width: 367.32px;
+  height: 470px;
+  top: -528px;
+  left: 830px;
+}
+
+.text-under-picture {
+  width: 293px;
+  height: 112px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+  color: rgba(255, 255, 255, 0.83);
+  margin-top: -85px;
+  margin-left: 41px;
+}
+
+#eclipse1 {
+  position: relative;
+  top: -145px;
+  left: -40px;
+}
+
+.links2section {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+  color: #033573;
 }
