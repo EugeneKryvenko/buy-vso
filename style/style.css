@@ -190,8 +190,8 @@ header span {
   width: 44px;
   height: 49px;
   left: 1251px;
-  top: 207px;
-  filter: blur(4px) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  top: 219px;
+  filter: blur(3px) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 #box-grey {
@@ -199,8 +199,8 @@ header span {
   width: 58px;
   height: 64px;
   left: 1193px;
-  top: 301px;
-  filter: blur(4px) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  top: 313px;
+  filter: blur(3px) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 #box-purple {
@@ -208,8 +208,8 @@ header span {
   width: 44px;
   height: 49px;
   left: 240px;
-  top: 639px;
-  filter: blur(4px) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  top: 651px;
+  filter: blur(3px) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 #box-green {
@@ -217,8 +217,8 @@ header span {
   width: 73px;
   height: 81px;
   left: 154px;
-  top: 719px;
-  filter: blur(4px) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+  top: 731px;
+  filter: blur(3px) drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
 
 #cex-listings {
@@ -335,4 +335,45 @@ header span {
 
 #dctdao {
   margin: 19px 8px 20px 8px;
+}
+
+#line1 {
+  position: absolute;
+  width: 1723px;
+  height: 0px;
+  left: -141px;
+  top: 734px;
+  border: 1px solid rgba(236, 236, 236, 0.3);
+  transform: matrix(0.92, -0.39, 0.39, 0.92, 0, 0);
+}
+
+#under-home-link {
+  width: 900px;
+  height: 28px;
+  margin: 851px 400px 35px 402px;
+}
+
+#text1 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.4px;
+  color: #ffffff;
+}
+
+#below-link {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.4px;
+  color: #033573;
+}
+#icon {
+  position: absolute;
+  left: 1047px;
+  top: 859px;
 }
