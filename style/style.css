@@ -374,6 +374,17 @@ header span {
 }
 #icon {
   position: absolute;
-  left: 1047px;
+  left: 1051px;
   top: 859px;
+}
+
+/* how to add */
+
+.how-to-add {
+  position: absolute;
+  width: 1720.95px;
+  height: 799px;
+  left: -140.95px;
+  top: 900px;
+  background: #0773fa;
 }
