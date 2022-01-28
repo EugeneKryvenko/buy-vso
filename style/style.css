@@ -459,3 +459,80 @@ header span {
 #screen2 {
   border-radius: 10px;
 }
+
+/* table */
+
+.vso-staking-opportunities {
+  position: absolute;
+  width: 899px;
+  height: 736px;
+  left: 270px;
+  top: 1710px;
+}
+
+#Title3 {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: 800;
+  font-size: 44px;
+  line-height: 80px;
+  text-align: center;
+  letter-spacing: -2.4px;
+  color: #283049;
+}
+
+#text-hint {
+  font-family: Mulish;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 21px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: -0.2px;
+  color: #1f3e4f;
+}
+
+#thirdsectiontable {
+  width: 899px;
+  height: 523px;
+  background: tan;
+  margin-top: 57px;
+}
+
+#rowheader1,
+#rowheader2,
+#rowheader3,
+#rowheader4 {
+  display: inline;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+  color: #1f3e4f;
+}
+
+#rowheader1 {
+  margin-right: 174px;
+  padding-left: 10px;
+}
+
+#rowheader2 {
+  margin-right: 134px;
+}
+
+#rowheader3 {
+  margin-right: 142px;
+}
+
+#star {
+  position: relative;
+  top: -12px;
+  left: 5px;
+}
+
+.vso-staking-opportunities hr {
+  color: rgba(24, 123, 245, 0.4);
+  margin-top: 15px;
+}
