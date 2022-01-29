@@ -581,3 +581,13 @@ header span {
   color: #1f3e4f;
   text-align: left;
 }
+
+.longtext {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+  color: #1f3e4f;
+}
