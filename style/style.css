@@ -493,10 +493,8 @@ header span {
 }
 
 #thirdsectiontable {
-  width: 899px;
-  height: 523px;
   background: tan;
-  margin-top: 57px;
+  margin-top: 23px;
 }
 
 #rowheader1,
@@ -535,4 +533,51 @@ header span {
 .vso-staking-opportunities hr {
   color: rgba(24, 123, 245, 0.4);
   margin-top: 15px;
+}
+
+.tablemargin {
+  padding-right: 70px;
+  padding-left: 10px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+  color: #1f3e4f;
+}
+
+.tablemargin1 {
+  padding-right: 135px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+  color: #187bf5;
+}
+
+.tablemargin2 {
+  padding-right: 142px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+  color: #1f3e4f;
+}
+
+.tablemargin3 {
+  width: 255px;
+  height: 112px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: -0.2px;
+  color: #1f3e4f;
+  text-align: left;
 }
