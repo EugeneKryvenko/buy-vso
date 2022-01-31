@@ -706,4 +706,5 @@ footer ul {
   top: 762px;
   border: 1px solid rgba(236, 236, 236, 0.3);
   transform: matrix(0.92, -0.39, 0.39, 0.92, 0, 0);
+  z-index: 0;
 }
