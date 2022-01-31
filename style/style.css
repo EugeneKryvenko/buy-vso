@@ -702,8 +702,8 @@ footer ul {
   position: absolute;
   width: 1723px;
   height: 0px;
-  left: 0px;
-  top: 0px;
+  right: 6px;
+  top: 762px;
   border: 1px solid rgba(236, 236, 236, 0.3);
   transform: matrix(0.92, -0.39, 0.39, 0.92, 0, 0);
 }
