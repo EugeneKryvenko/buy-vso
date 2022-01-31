@@ -697,3 +697,13 @@ footer ul {
   top: 580px;
   left: 1160px;
 }
+
+#line1 {
+  position: absolute;
+  width: 1723px;
+  height: 0px;
+  left: 0px;
+  top: 0px;
+  border: 1px solid rgba(236, 236, 236, 0.3);
+  transform: matrix(0.92, -0.39, 0.39, 0.92, 0, 0);
+}
