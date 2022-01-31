@@ -337,16 +337,6 @@ header span {
   margin: 19px 8px 20px 8px;
 }
 
-#line1 {
-  position: absolute;
-  width: 1723px;
-  height: 0px;
-  left: -141px;
-  top: 734px;
-  border: 1px solid rgba(236, 236, 236, 0.3);
-  transform: matrix(0.92, -0.39, 0.39, 0.92, 0, 0);
-}
-
 #under-home-link {
   width: 900px;
   height: 28px;
@@ -387,6 +377,20 @@ header span {
   top: 900px;
   left: 0px;
   background: #0773fa;
+}
+
+#box-pink {
+  position: relative;
+  left: 1180px;
+  top: 470px;
+  filter: blur(3px);
+}
+
+#box-green1 {
+  position: relative;
+  left: 1180px;
+  top: 510px;
+  filter: blur(3px) drop-shadow(-5px 20px 24px rgba(0, 0, 0, 0.15));
 }
 
 #Title2 {
@@ -620,7 +624,76 @@ input[value] {
 
 #services {
   position: relative;
-  left: 764px;
-  top: -330px;
+  left: 664px;
+  top: -350px;
   margin-left: 142px;
+}
+
+footer li {
+  margin-top: 20px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.204545px;
+  color: #ffffff;
+  list-style: none;
+}
+
+footer ul {
+  padding: 0;
+  margin: 0;
+}
+#services,
+#about {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 17px;
+  line-height: 22px;
+  letter-spacing: -0.231818px;
+  color: #d80d40;
+}
+
+#about {
+  position: relative;
+  left: 909px;
+  top: -550px;
+  margin-left: 142px;
+}
+
+#facebook {
+  position: relative;
+  top: 427px;
+  left: 993px;
+}
+
+#twitter {
+  position: relative;
+  top: 420px;
+  left: 1030px;
+}
+
+#instagram {
+  position: relative;
+  top: 420px;
+  left: 1070px;
+}
+
+#privacy {
+  padding-left: 648px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.204545px;
+  color: #ffffff;
+}
+
+.material-icons {
+  position: relative;
+  top: 580px;
+  left: 1160px;
 }
