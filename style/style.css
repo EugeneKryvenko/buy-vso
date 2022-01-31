@@ -521,7 +521,7 @@ header span {
 }
 
 #rowheader3 {
-  margin-right: 142px;
+  margin-right: 122px;
 }
 
 #star {
@@ -535,53 +535,6 @@ header span {
   margin-top: 15px;
 }
 
-.tablemargin {
-  padding-right: 70px;
-  padding-left: 10px;
-  font-family: DM Sans;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 28px;
-  letter-spacing: -0.2px;
-  color: #1f3e4f;
-}
-
-.tablemargin1 {
-  padding-right: 135px;
-  font-family: DM Sans;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 28px;
-  letter-spacing: -0.2px;
-  color: #187bf5;
-}
-
-.tablemargin2 {
-  padding-right: 142px;
-  font-family: DM Sans;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 28px;
-  letter-spacing: -0.2px;
-  color: #1f3e4f;
-}
-
-.tablemargin3 {
-  width: 255px;
-  height: 112px;
-  font-family: DM Sans;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 28px;
-  letter-spacing: -0.2px;
-  color: #1f3e4f;
-  text-align: left;
-}
-
 .longtext {
   font-family: DM Sans;
   font-style: normal;
@@ -590,4 +543,84 @@ header span {
   line-height: 28px;
   letter-spacing: -0.2px;
   color: #1f3e4f;
+}
+
+/* footer */
+
+footer {
+  position: absolute;
+  width: 1440px;
+  height: 639px;
+  left: 0px;
+  top: 2515px;
+  background: #0060e0;
+}
+
+#logo1 {
+  position: relative;
+  top: 49px;
+  left: 159px;
+}
+
+#backform {
+  position: relative;
+  top: 175px;
+  left: 277px;
+}
+
+#footer-text1 {
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 29px;
+  letter-spacing: -0.3px;
+  color: #ffffff;
+}
+
+#email {
+  margin-top: 40px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.204545px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+#footer-rectangle {
+  margin-top: 20px;
+  height: 1px;
+  width: 345px;
+  background: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.1;
+}
+
+input[value] {
+  margin-left: 172px;
+}
+
+#copyright {
+  margin-top: 277px;
+  margin-left: 155px;
+  font-family: DM Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  letter-spacing: -0.204545px;
+  color: #ffffff;
+  mix-blend-mode: normal;
+  opacity: 0.5;
+}
+
+#services {
+  position: relative;
+  left: 764px;
+  top: -330px;
+  margin-left: 142px;
 }
