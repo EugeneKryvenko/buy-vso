@@ -1,6 +1,8 @@
 body {
   width: 1440px;
   height: 3200px;
+  position: relative;
+  left: 300px;
 }
 
 .home {
@@ -696,4 +698,48 @@ footer ul {
   position: relative;
   top: 580px;
   left: 1160px;
+}
+
+#line1 {
+  position: absolute;
+  width: 1723px;
+  height: 0px;
+  left: -215px;
+  top: 740px;
+  border: 1px solid rgba(236, 236, 236, 0.3);
+  transform: matrix(0.92, -0.39, 0.39, 0.92, 0, 0);
+  z-index: 1;
+}
+
+#line2 {
+  position: absolute;
+  width: 1723px;
+  height: 0px;
+  left: -70px;
+  top: 800px;
+  border: 1px solid rgba(236, 236, 236, 0.2);
+  transform: matrix(0.92, -0.39, 0.39, 0.92, 0, 0);
+  z-index: 1;
+}
+
+#line3 {
+  position: absolute;
+  width: 1723px;
+  height: 0px;
+  left: -70px;
+  top: 1280px;
+  border: 1px solid rgba(236, 236, 236, 0.2);
+  transform: matrix(-0.92, -0.39, -0.39, 0.92, 0, 0);
+  z-index: 1;
+}
+
+#line4 {
+  position: absolute;
+  width: 1723px;
+  height: 0px;
+  left: -210px;
+  top: 1340px;
+  border: 1px solid rgba(236, 236, 236, 0.2);
+  transform: matrix(-0.92, -0.39, -0.39, 0.92, 0, 0);
+  z-index: 1;
 }
