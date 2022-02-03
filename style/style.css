@@ -1,8 +1,6 @@
 body {
   width: 1440px;
   height: 3200px;
-  position: relative;
-  left: 300px;
 }
 
 .home {
@@ -694,12 +692,6 @@ footer ul {
   color: #ffffff;
 }
 
-.material-icons {
-  position: relative;
-  top: 580px;
-  left: 1160px;
-}
-
 #line1 {
   position: absolute;
   width: 1723px;
@@ -742,4 +734,12 @@ footer ul {
   border: 1px solid rgba(236, 236, 236, 0.2);
   transform: matrix(-0.92, -0.39, -0.39, 0.92, 0, 0);
   z-index: 1;
+}
+
+#link-top {
+  position: relative;
+  top: 575px;
+  left: 1155px;
+  border: 25px solid #0d6bd8;
+  border-radius: 25px;
 }
