@@ -605,7 +605,18 @@ footer {
 }
 
 input[value] {
+  position: relative;
   margin-left: 172px;
+  top: 7px;
+  color: white;
+  background: #0d6bd8;
+  border: none;
+  border-radius: 8px 8px 0px 0px;
+}
+input[type='text'] {
+  background-color: #0d6bd8;
+  border: 2px solid blueviolet;
+  width: 270px;
 }
 
 #copyright {
@@ -741,5 +752,5 @@ footer ul {
   top: 575px;
   left: 1155px;
   border: 25px solid #0d6bd8;
-  border-radius: 25px;
+  border-radius: 35px;
 }
